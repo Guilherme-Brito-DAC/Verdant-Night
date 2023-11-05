@@ -1,0 +1,21 @@
+{
+  "name": "verdantnight",
+  "displayName": "VerdantNight",
+  "description": "A dark theme with green accents",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Verdant Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Verdant Night-color-theme.json"
+      }
+    ]
+  }
+}
